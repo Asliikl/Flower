@@ -59,7 +59,6 @@ if (!isset($user_id)) {
       }
       ?>
 
-      <h1 class="title">verilen siparişler</h1>
 
       <div class="box1" style="padding: 2rem; border: var(--border); background-color: var(--white); box-shadow: var(--box-shadow); border-radius: .5rem; display: inline-block; margin-left: 38%; vertical-align: top;">
          <form method="POST" style="font-size: large;">
