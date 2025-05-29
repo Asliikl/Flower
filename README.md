@@ -45,7 +45,7 @@ Bu proje, çiçek satışı yapan bir e-ticaret web uygulamasıdır. Kullanıcı
 <table>
   <tr>
     <td><img src="docs/anasayfa.png" alt="Anasayfa" width="300" /></td>
-    <td><img src="docs/filtreleme.png" alt="Filtreleme" width="300" /></td>
+    <td><img src="docs/filtreleme.png" alt="Filtreleme" width="300" height="300"  /></td>
   </tr>
   <tr>
     <td><img src="docs/Tedarik.png" alt="Tedarik" width="300" /></td>
