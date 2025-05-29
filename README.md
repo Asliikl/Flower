@@ -40,30 +40,30 @@ Bu proje, çiçek satışı yapan bir e-ticaret web uygulamasıdır. Kullanıcı
 └── config.php              # Veritabanı bağlantı ayarları
 ```
 
+# Proje Ekran Görüntüleri
 
-### Proje Ekran Görüntüleri
-
-```html
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="docs/anasayfa.png" alt="Anasayfa" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="docs/filtreleme.png" alt="Filtreleme" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-</div>
-<div style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="docs/Tedarik.png" alt="Tedarik" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="docs/admin-panel.png" alt="Admin Panel" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-</div>
-<div style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="docs/yorumlar.png" alt="Yorumlar" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="docs/hakkimizda.png" alt="Hakkımızda" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-</div>
-<div style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="docs/siparisler.png" alt="Siparişler" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="docs/sepet.png" alt="Sepet" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-</div>
-<div style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="docs/favoriler.png" alt="Favoriler" style="width: 48%; border: 1px solid #ccc; border-radius: 8px;">
-</div>
-```
+<table>
+  <tr>
+    <td><img src="docs/anasayfa.png" alt="Anasayfa" width="300" /></td>
+    <td><img src="docs/filtreleme.png" alt="Filtreleme" width="300" /></td>
+  </tr>
+  <tr>
+    <td><img src="docs/Tedarik.png" alt="Tedarik" width="300" /></td>
+    <td><img src="docs/admin-panel.png" alt="Admin Panel" width="300" /></td>
+  </tr>
+  <tr>
+    <td><img src="docs/yorumlar.png" alt="Yorumlar" width="300" /></td>
+    <td><img src="docs/hakkimizda.png" alt="Hakkımızda" width="300" /></td>
+  </tr>
+  <tr>
+    <td><img src="docs/siparisler.png" alt="Siparişler" width="300" /></td>
+    <td><img src="docs/sepet.png" alt="Sepet" width="300" /></td>
+  </tr>
+  <tr>
+    <td><img src="docs/favoriler.png" alt="Favoriler" width="300" /></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Katkı
 Katkıda bulunmak için lütfen bir fork oluşturun ve pull request gönderin.
