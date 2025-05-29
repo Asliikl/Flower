@@ -1,4 +1,4 @@
-# Flower E-Ticaret Projesi
+# Çiçek E-Ticaret Projesi
 
 ## Proje Tanımı
 Bu proje, çiçek satışı yapan bir e-ticaret web uygulamasıdır. Kullanıcılar ürünleri inceleyebilir, sepete ekleyebilir, favorilere alabilir ve sipariş verebilir. Yönetici paneli ile ürün, stok, sipariş, yorum ve kullanıcı yönetimi yapılabilir. Ayrıca satışlarla ilgili raporlamaları inceleyebilir. Rapor ve stok/sipariş bölümlerinde özel filtrelemeler bulunmaktadır.
