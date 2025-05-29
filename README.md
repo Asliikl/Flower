@@ -59,9 +59,6 @@ Bu proje, çiçek satışı yapan bir e-ticaret web uygulamasıdır. Kullanıcı
     <td><img src="docs/favoriler.png" alt="Favoriler" width="300" /></td>
     <td><img src="docs/sepet.png" alt="Sepet" width="300" /></td>
   </tr>
-  <tr>
-    <td><img src="docs/filtreleme.png" alt="Filtreleme" width="300" /></td>
-  </tr>
 </table>
 
 ## Katkı
