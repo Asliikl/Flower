@@ -45,23 +45,22 @@ Bu proje, çiçek satışı yapan bir e-ticaret web uygulamasıdır. Kullanıcı
 <table>
   <tr>
     <td><img src="docs/anasayfa.png" alt="Anasayfa" width="300" /></td>
-    <td><img src="docs/filtreleme.png" alt="Filtreleme" width="300" height="300"  /></td>
-  </tr>
-  <tr>
     <td><img src="docs/Tedarik.png" alt="Tedarik" width="300" /></td>
+  </tr>
+  <tr>
     <td><img src="docs/admin-panel.png" alt="Admin Panel" width="300" /></td>
-  </tr>
-  <tr>
     <td><img src="docs/yorumlar.png" alt="Yorumlar" width="300" /></td>
-    <td><img src="docs/hakkimizda.png" alt="Hakkımızda" width="300" /></td>
   </tr>
   <tr>
+    <td><img src="docs/hakkimizda.png" alt="Hakkımızda" width="300" /></td>
     <td><img src="docs/siparisler.png" alt="Siparişler" width="300" /></td>
-    <td><img src="docs/sepet.png" alt="Sepet" width="300" /></td>
   </tr>
   <tr>
     <td><img src="docs/favoriler.png" alt="Favoriler" width="300" /></td>
-    <td></td>
+    <td><img src="docs/sepet.png" alt="Sepet" width="300" /></td>
+  </tr>
+  <tr>
+    <td><img src="docs/filtreleme.png" alt="Filtreleme" width="300" /></td>
   </tr>
 </table>
 
